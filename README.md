@@ -71,3 +71,13 @@ http://blog.arganzheng.me/posts/use-logstash-to-collect-nginx-access-log.html
 ### 引用
 
 [官方文档_英文](https://www.elastic.co/guide/en/elasticsearch/reference/current/getting-started.html)
+
+
+
+## 推荐系统
+
+[今日头条推荐](http://www.ifanr.com/649620)
+
+[协同过滤算法](https://zh.wikipedia.org/wiki/%E5%8D%94%E5%90%8C%E9%81%8E%E6%BF%BE)
+
+[Mahout and Elasticsearch](https://www.mapr.com/products/mapr-sandbox-hadoop/tutorials/recommender-tutorial)
